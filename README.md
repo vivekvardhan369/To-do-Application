@@ -140,27 +140,27 @@ Run the tests to ensure the application is functioning as expected:
 
 
 ** 📂 Features to Add
-```bash
+
     Add task prioritization and tagging.
     Include a calendar view for appointments.
     Enable reminders for upcoming tasks.
     Enhance UI with animations for a better user experience.
-```
+
 
 ---
 ** 🤝 Contributing
-```bash
+
 Contributions are welcome! Please follow these steps:
 
 Fork the repository.
 Create a new branch for your feature/bug fix.
 Commit your changes with clear messages.
 Push to your branch and create a pull request.
-```
+
 ---
 📝 License
 This project is licensed under the MIT License. See the LICENSE file for details.
-```
+
 ---
 ** 🌟 Acknowledgments
 
@@ -170,7 +170,7 @@ Special thanks to the open-source community for tools like React, Redux, and Mon
 💡 Let’s connect!
 Feel free to explore this project or reach out via Email or LinkedIn.
 www.linkedin.com/in/vivekvardhan369
-```
+
 
 
 
